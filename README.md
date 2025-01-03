@@ -1,1 +1,1 @@
-Set up the basic structure for a responsive, user-friendly CV.
+Created a complete curriculum vitae (CV) webpage from scratch, including personal profile, work experience, key skills, and education sections. Implemented HTML structure, CSS for layout and styling, and added links to social media profiles. Set up the basic structure for a responsive, user-friendly CV.
